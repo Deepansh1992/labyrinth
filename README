@@ -1,0 +1,3 @@
+-The main objective of the project is to create a lybrinth game. 
+-The project will created in real time OS environment. 
+-We are using pthread library to fullfill our purpose. 
